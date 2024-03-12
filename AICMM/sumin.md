@@ -3,6 +3,6 @@
   - 담당파트 : 이상치 탐지 이론
     
 # Task Likst
-    -[ ]  Supervised Anomaly Detection
-    -[ ]  Semi-supervised (One-Class) Anomaly Detection
-    -[ ]  Unsupervised Anomaly Detection
+   - [ ] Supervised Anomaly Detection
+   - [ ] Semi-supervised (One-Class) Anomaly Detection
+   - [ ] Unsupervised Anomaly Detection
