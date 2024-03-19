@@ -1,5 +1,5 @@
 ---
-name: 🔥 Add function 🔥
+name: 🔥 Add function 
 about: AICMM Create a new function in application
 title: '[Function]:'
 labels: [bug, documentation]
