@@ -4,7 +4,7 @@ body:
   - type: dropdown
     id: OS_version
     attributes:
-      label: Version
+      label: OS_Version
       description: Ubuntu OS Version
       options:
         - 22.04 
