@@ -1,0 +1,35 @@
+name: :fire:Add function template:fire:
+description: Write modified core code
+body:
+  - type: dropdown
+    id: version
+    attributes:
+      label: Version
+      description: Edit locatoin
+      options:
+      - Main page 
+      - Event Page
+      - PopUp page
+      - Apendix page
+
+    validations:
+      required: true
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: 문제가 발생한 os 환경
+      multiple: true
+      options:
+        - window
+        - linux
+        - macos
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Write modified core code
+      description: description
+      placeholder: Tell us what you see!
+      value: "Tell us what you think"
+    validations:
+      required: true        
+  
