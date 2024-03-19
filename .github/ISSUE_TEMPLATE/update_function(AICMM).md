@@ -25,6 +25,7 @@ Please enter the modified location:
 - [ ] PopUp page
 - [ ] Apendix page
 </br>
+
 **Category**
 Create a category for the features you want to add:
 - [ ] Add function
