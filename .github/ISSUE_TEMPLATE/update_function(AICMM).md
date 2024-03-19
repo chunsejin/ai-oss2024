@@ -1,6 +1,6 @@
 ---
 name: 🔥 Add function 🔥
-about: Create a new function in application
+about: AICMM Create a new function in application
 title: '[Function]'
 labels: '[exist, unexist]'
 assignees: '@Prcnsi, @yeryeong713, @qor'
