@@ -1,5 +1,5 @@
 name: 💡 Bug report
-description: 버그 발생 시 작성
+description: CF팀 버그 발생 시 작성
 body:
   - type: dropdown
     id: version
