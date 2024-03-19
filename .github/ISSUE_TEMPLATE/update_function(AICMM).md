@@ -3,7 +3,6 @@ name: 🔥 Add function 🔥
 about: AICMM Create a new function in application
 title: '[Function]:'
 labels: [bug]
-assignees: '@Prcnsi, @yeryeong713, @qor6'
 assignees: 
   - Prcnsi
   - yeryeong713
@@ -40,3 +39,7 @@ Create a category for the features you want to add:
 
 **Additional context**
 Add any other context about the problem here.
+
+auth @Prcnsi
+<br>
+issue #30
