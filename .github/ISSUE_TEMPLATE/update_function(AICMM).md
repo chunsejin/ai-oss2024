@@ -2,7 +2,7 @@
 name: 🔥 Add function 🔥
 about: AICMM Create a new function in application
 title: '[Function]:'
-labels: [bug]
+labels: [bug, documentation]
 assignees: 
   - Prcnsi
   - yeryeong713
