@@ -1,13 +1,10 @@
+# :fire:Add function template:fire:
 
+| name | about | title | lables | assignness |
+|----------|----------|----------|----------|----------|
+|  function name | Create a new function in application | [Function] | [exist, unexist] | @Prcnsi |
+</br>
 
----
-name: :fire: Add function
-about: Create a new function in application.
-title: '[Function]:'
-labels: [exist, unexist]
-assignees: 
-  - @Prcnsi
----
 
 _**Description**_
  - Purpose:
@@ -19,7 +16,7 @@ Write modified core code
 def helloworld():
   print("oss-ai lecture")
 ```
-
+</br>
 
 **Edit locatoin**
 Please enter the modified location:
@@ -27,7 +24,7 @@ Please enter the modified location:
 - [ ] Event Page
 - [ ] PopUp page
 - [ ] Apendix page
-
+</br>
 **Category**
 Create a category for the features you want to add:
 - [ ] Add function
