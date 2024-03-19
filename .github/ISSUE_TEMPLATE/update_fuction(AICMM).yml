@@ -1,5 +1,5 @@
 name: "Add function(AICMM)"
-description: :fire:**Write modified core code**:fire: @Prcnsi
+description: :fire:**Write modified core code**:fire:
 body:
   - type: dropdown
     id: version
