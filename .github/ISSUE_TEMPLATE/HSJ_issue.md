@@ -16,6 +16,7 @@ assignees:
 _Tasklist:_
 - [ ] [e.g. OKR, KPI 수정]
 - [ ] [e.g. SPACE 라인 조정]
+- [ ] ~~한개 이상 작성할 것~~
 
 ### Code
 ```[e.g. Python]
