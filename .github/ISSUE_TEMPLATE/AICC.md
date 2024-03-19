@@ -10,8 +10,6 @@ assignees: ''
 ---
 ### AICC project member: _**@KimGiheung @eunbyu1 @SJpark02**_
 
----
-
 **00. Welcome** 👍
 ```
 print("Hello World")
@@ -33,5 +31,5 @@ Create a category of features to add:
 - [ ] No
 
 **04. related** <br>
-※ Please write after # <br>
+_※ Please write after #_ <br>
 #
