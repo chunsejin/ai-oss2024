@@ -2,11 +2,9 @@
 name: 🍖 HSJ issue template
 about: HSJ's feature request issue template
 title: '[HSJ]:'
-labels: [Feature request]
+labels: [Feature request,]
 assignees: 
   - Comet-Csms
-Milestone:
-  - HSJ
 ---
 
 **Issue**
