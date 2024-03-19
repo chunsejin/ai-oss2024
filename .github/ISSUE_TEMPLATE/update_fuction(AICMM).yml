@@ -1,6 +1,5 @@
 name: "Add function(AICMM)"
 description: "**Write modified core code**"
-additional_description: ":fire: 할당: @Prcnsi"
 body:
   - type: dropdown
     id: version
