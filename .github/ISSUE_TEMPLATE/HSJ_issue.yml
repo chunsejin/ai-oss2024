@@ -1,4 +1,4 @@
-name: 🍖 HSJ issue template
+name: 🍖 HSJ bug template
 description: HSJ's feature request issue template
 body:
   - type: input
