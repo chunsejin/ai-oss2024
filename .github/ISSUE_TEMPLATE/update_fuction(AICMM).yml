@@ -1,5 +1,5 @@
 name: "🐞 Add function"
-description: "Explain and _what you modified_ with writer @Prcnsi in issues #30"
+description: "AICMM Explain and _what you modified_ with writer @Prcnsi in issues #30"
 body:
   - type: dropdown
     id: version
