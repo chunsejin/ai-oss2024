@@ -1,10 +1,11 @@
-# :fire:Add function template:fire:
+---
+name: 🔥 Add function 🔥
+about: Create a new function in application
+title: '[Function]'
+labels: '[exist, unexist]'
+assignees: '@Prcnsi, @yeryeong713, @qor'
 
-| name | about | title | lables | assignness |
-|----------|----------|----------|----------|----------|
-|  function name | Create a new function in application | [Function] | [exist, unexist] | @Prcnsi |
-</br>
-
+---
 
 _**Description**_
  - Purpose:
