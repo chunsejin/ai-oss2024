@@ -1,5 +1,8 @@
 name: 🍖 HSJ bug template
 description: HSJ's feature request issue template
+labels: [Feature request]
+assignees: 
+  - Comet-Csms
 body:
   - type: input
     id: contact
