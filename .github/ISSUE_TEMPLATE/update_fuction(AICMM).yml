@@ -1,4 +1,4 @@
-name: "Add function template"
+name: "Add function(AICMM)"
 description: :fire:**Write modified core code**:fire: @Prcnsi
 body:
   - type: dropdown
