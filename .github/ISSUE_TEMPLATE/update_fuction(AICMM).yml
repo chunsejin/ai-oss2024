@@ -29,7 +29,7 @@ body:
       label: Write modified core code
       description: description
       placeholder: Tell us what you see!
-      value: "Tell us what you think"
+      value: "Tell us what you"
     validations:
       required: true
   - type: input
