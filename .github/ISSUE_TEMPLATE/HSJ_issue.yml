@@ -24,12 +24,11 @@ body:
   - type: dropdown
     id: version
     attributes:
-      label: Version
-      description: What version of our software are you running?
+      label: Evaluation
+      description: Good or Bad?
       options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
-        - 1.0.4 (Something)
+        - Good (Default)
+        - Bad (Something)
     validations:
       required: true
   - type: dropdown
