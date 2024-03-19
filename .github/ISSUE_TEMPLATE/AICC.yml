@@ -1,0 +1,41 @@
+name: 💮 AICC Bug report
+description: AICC Team Bug Report
+body:
+  - type: dropdown
+    id: OS_version
+    attributes:
+      label: Version
+      description: Ubuntu OS Version
+      options:
+        - 22.04 
+        - 20.04 
+        - 18.04
+
+    validations:
+      required: true
+
+  - type: dropdown
+    id: python_version
+    attributes:
+      label: Python Version
+      options:
+        - 3.7
+        - 3.8
+        - 3.9
+
+    - type: textarea
+    id: C_Compiler_version
+    attributes:
+      label: C Compiler Version
+      placeholder: Version
+      value: Version
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: 발생한 문제 작성 
+      placeholder: 발생한 문제 작성
+      value: "발생한 문제 작성"
+    validations:
+      required: true        
