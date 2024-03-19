@@ -1,5 +1,5 @@
 name: "Add function(AICMM)"
-description: "**Write modified core code**"
+description: "Write modified core code"
 body:
   - type: dropdown
     id: version
