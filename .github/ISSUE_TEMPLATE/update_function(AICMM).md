@@ -9,8 +9,7 @@ assignees:
   - qor6
     
 ---
-
-example) auth: @Prcnsi, issue: #30
+auth: @Prcnsi, issue: #30
 
 _**Description**_
  - Purpose:
