@@ -1,4 +1,4 @@
-name: :fire:Add function template:fire:
+name: ":fire:Add function template:fire:"
 description: Write modified core code
 body:
   - type: dropdown
@@ -7,11 +7,10 @@ body:
       label: Version
       description: Edit locatoin
       options:
-      - Main page 
-      - Event Page
-      - PopUp page
-      - Apendix page
-
+        - Main page 
+        - Event Page
+        - PopUp page
+        - Apendix page
     validations:
       required: true
   - type: dropdown
@@ -31,5 +30,4 @@ body:
       placeholder: Tell us what you see!
       value: "Tell us what you think"
     validations:
-      required: true        
-  
+      required: true
