@@ -1,11 +1,11 @@
-name: ":fire:Add function template:fire:"
-description: Write modified core code
+name: "Add function template"
+description: :fire:**Write modified core code**:fire: @Prcnsi
 body:
   - type: dropdown
     id: version
     attributes:
       label: Version
-      description: Edit locatoin
+      description: Edit location
       options:
         - Main page 
         - Event Page
@@ -16,12 +16,13 @@ body:
   - type: dropdown
     id: browsers
     attributes:
-      label: 문제가 발생한 os 환경
+      label: category
       multiple: true
       options:
-        - window
-        - linux
-        - macos
+     - Add function
+     - Delete function
+     - Modify function
+     - Apendix page
   - type: textarea
     id: what-happened
     attributes:
