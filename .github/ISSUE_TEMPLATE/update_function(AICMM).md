@@ -10,9 +10,7 @@ assignees:
     
 ---
 
-auth @Prcnsi
-<br>
-issue #30
+example) auth: @Prcnsi, issue: #30
 
 _**Description**_
  - Purpose:
