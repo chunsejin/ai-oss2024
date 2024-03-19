@@ -10,6 +10,10 @@ assignees:
     
 ---
 
+auth @Prcnsi
+<br>
+issue #30
+
 _**Description**_
  - Purpose:
  - Detail: 
@@ -40,6 +44,4 @@ Create a category for the features you want to add:
 **Additional context**
 Add any other context about the problem here.
 
-auth @Prcnsi
-<br>
-issue #30
+
