@@ -1,4 +1,4 @@
-name: "Add function"
+name: "🐞 Add function"
 description: "AICMM Write modified core code"
 body:
   - type: dropdown
