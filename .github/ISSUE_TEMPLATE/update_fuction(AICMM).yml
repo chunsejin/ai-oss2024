@@ -1,5 +1,6 @@
 name: "Add function(AICMM)"
-description: ":fire:**Write modified core code**:fire:"
+description: "**Write modified core code**"
+additional_description: ":fire: 할당: @Prcnsi"
 body:
   - type: dropdown
     id: version
@@ -36,7 +37,7 @@ body:
     id: contact
     attributes:
       label: Contact Details
-      description: 추가적인 질문이 있다면 아래 메일로 답변이 갈 수 있습니다.
+      description: 작성자 이메일.
       placeholder: ex. email@example.com
     validations:
       required: false
