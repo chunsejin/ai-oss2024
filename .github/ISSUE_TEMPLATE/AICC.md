@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: 💮 AICC_Feature request
 about: 프로젝트 기능 제안
 title: ''
 labels: ''
