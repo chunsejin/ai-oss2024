@@ -1,0 +1,31 @@
+function_template:
+  name: function name
+  about: Create a new function in application
+  title: '[Function]'
+  labels: '[exist, unexist]'
+  assignness: '@Prcnsi'
+
+description: |
+  Purpose:
+  Detail:
+
+core_code: |
+  def helloworld():
+    print("oss-ai lecture")
+
+edit_location: |
+  Please enter the modified location:
+  - [ ] Main page
+  - [ ] Event Page
+  - [ ] PopUp page
+  - [ ] Appendix page
+
+category: |
+  Create a category for the features you want to add:
+  - [ ] Add function
+  - [ ] Delete function
+  - [ ] Modify function
+  - [ ] Appendix page
+
+additional_context: |
+  Add any other context about the problem here.
