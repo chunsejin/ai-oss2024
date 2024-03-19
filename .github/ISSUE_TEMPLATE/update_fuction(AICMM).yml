@@ -11,6 +11,7 @@ body:
         - Event Page
         - PopUp page
         - Apendix page
+        
     validations:
       required: true
   - type: dropdown
@@ -32,3 +33,11 @@ body:
       value: "Tell us what you think"
     validations:
       required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: 추가적인 질문이 있다면 아래 메일로 답변이 갈 수 있습니다.
+      placeholder: ex. email@example.com
+    validations:
+      required: false
