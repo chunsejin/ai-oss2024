@@ -1,10 +1,14 @@
 ---
 name: 🔥 Add function 🔥
 about: AICMM Create a new function in application
-title: '[Function]'
-labels: '[exist, unexist]'
+title: '[Function]:'
+labels: [exist, unexist]
 assignees: '@Prcnsi, @yeryeong713, @qor6'
-
+assignees: 
+  - Prcnsi
+  - yeryeong713
+  - qor6
+    
 ---
 
 _**Description**_
