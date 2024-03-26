@@ -1,0 +1,13 @@
+def calculate_average(number_list
+    # 이 함수는 숫자 리스트의 평균을 계산합니다
+    sum = 0
+    for number in number_list:
+    sum += number  # 들여쓰기 오류
+    average = sum / len(number_list)
+    return averge  # 오타: 'average'가 올바른 변수 이름입니다.
+
+# 숫자 리스트
+numbers = [10, 20, 30, 40, 50]
+
+# 평균 출력
+print("평균:", calculate_average(numbers))
