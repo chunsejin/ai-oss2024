@@ -1,0 +1,13 @@
+def find_Max(nums):
+    # 이 함수는 주어진 숫자 리스트에서 최대값을 찾아 반환합니다
+    max_num = nums[0  # 초기 최대값을 리스트의 첫 번째 값으로 설정, 닫는 괄호 누락
+    for num in nums
+        if n > max_num  # 'n'은 정의되지 않았으며, 콜론(:)이 누락됨
+            max_num = n  # 여기도 'n'은 정의되지 않았습니다.
+    retrun max_num  # 'return'이 잘못 입력되었습니다.
+
+# 리스트 예시
+num_list = [1, 2, 3, 4, 5]
+
+# 결과 출력
+print("최대값:", find_Max(num_list))

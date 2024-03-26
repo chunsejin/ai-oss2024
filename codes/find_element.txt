@@ -1,0 +1,13 @@
+def find_element(lst, element):
+    # 리스트에서 주어진 요소를 찾아 인덱스 반환, 없으면 -1 반환
+    for i in range(len(lst)):
+    if lst[i] == element
+        return i  # if 문과 for 문에서 들여쓰기 문제
+    return -1  # 이 줄도 들여쓰기 문제가 있습니다.
+
+# 테스트 데이터
+my_list = [1, 2, 3, 4, 5]
+element_to_find = 3
+
+# 결과 출력
+print("인덱스:", find_element(my_list, element_to_find))
