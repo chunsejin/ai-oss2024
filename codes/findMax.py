@@ -5,7 +5,7 @@ def find_Max(nums):
     for num in nums
         if num > max_num:
             max_num = num 
-    retrun max_num  # 'return'이 잘못 입력되었습니다.
+    return max_num  
 
 # 리스트 예시
 num_list = [1, 2, 3, 4, 5]
