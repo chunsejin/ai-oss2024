@@ -1,6 +1,7 @@
 def calculate_average(number_list):
     # 이 함수는 숫자 리스트의 평균을 계산합니다
     sum = 0
+
     for number in number_list:
         sum += number  
     average = sum / len(number_list)
