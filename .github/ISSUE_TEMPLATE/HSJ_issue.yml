@@ -1,0 +1,51 @@
+name: 🍖 HSJ bug template
+description: HSJ's feature request issue template
+labels: [Feature request]
+assignees: 
+  - Comet-Csms
+body:
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What is the bugs?
+      description: Also tell me, what did you expect to happen?
+      placeholder: Tell us what you see!
+      value: "Tell me, please."
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: Evaluation
+      description: Good or Bad?
+      options:
+        - Good (Default)
+        - Bad (Something)
+    validations:
+      required: true
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: What browsers are you seeing the problem on?
+      multiple: true
+      options:
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true

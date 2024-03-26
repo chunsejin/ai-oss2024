@@ -1,0 +1,42 @@
+name: "🐞 Add function"
+description: "AICMM Explain and _what you modified_ with writer @Prcnsi in issues #30"
+body:
+  - type: dropdown
+    id: version
+    attributes:
+      label: Version
+      description: Edit location
+      options:
+        - Main page 
+        - Event Page
+        - PopUp page
+        - Apendix page
+    validations:
+      required: true
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: category
+      multiple: true
+      options:
+        - Add function
+        - Delete function
+        - Modify function
+        - Apendix page
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Write modified core code
+      description: description
+      placeholder: Tell us what you see!
+      value: "Tell us what you"
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: 작성자 이메일.
+      placeholder: ex. email@example.com
+    validations:
+      required: false

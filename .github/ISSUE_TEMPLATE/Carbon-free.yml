@@ -1,0 +1,43 @@
+name: 💡 Bug report
+description: CF팀 버그 발생 시 작성
+body:
+  - type: dropdown
+    id: version
+    attributes:
+      label: Version
+      description: 현재 사용중인 파이썬 버전
+      options:
+        - 3.7 
+        - 3.8 
+        - 3.9 
+        - 3.10 
+        - 3.11
+
+    validations:
+      required: true
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: 문제가 발생한 os 환경
+      multiple: true
+      options:
+        - window
+        - linux
+        - macos
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: 현재 발견한 문제사항
+      description: 최대한 자세히 작성 부탁합니다.
+      placeholder: Tell us what you see!
+      value: "Tell us what you think"
+    validations:
+      required: true        
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: 추가적인 질문이 있다면 아래 메일로 답변이 갈 수 있습니다.
+      placeholder: ex. email@example.com
+    validations:
+      required: false          
