@@ -4,7 +4,7 @@ def find_Max(nums):
     
     for num in nums
         if num > max_num:
-            max_num = n  # 여기도 'n'은 정의되지 않았습니다.
+            max_num = num 
     retrun max_num  # 'return'이 잘못 입력되었습니다.
 
 # 리스트 예시
