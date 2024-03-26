@@ -1,8 +1,9 @@
 def find_Max(nums):
     # 이 함수는 주어진 숫자 리스트에서 최대값을 찾아 반환합니다
     max_num = nums[0]
+    
     for num in nums
-        if n > max_num  # 'n'은 정의되지 않았으며, 콜론(:)이 누락됨
+        if num > max_num:
             max_num = n  # 여기도 'n'은 정의되지 않았습니다.
     retrun max_num  # 'return'이 잘못 입력되었습니다.
 
