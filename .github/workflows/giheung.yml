@@ -1,0 +1,35 @@
+name: my first workflow
+#Trigger Webhook event
+on: [push, pull_request]
+
+jobs:
+  # job
+  job_1:
+    name: My first job
+    runs-on: ubuntu-latest
+    steps:
+     - name: my first step
+       uses: actions/checkout@v2
+
+     - name: python in one code
+       uses: actions/setup-python@v5.1.0
+
+     - name: run python
+       run: python myapp.py
+       # run: pip install -r requirments.txt
+       shell: bash
+       
+     - name: my second step
+       run: echo "Hello world"
+       shell: bash
+
+     - name: my shird step
+       run: |
+         echo "first hello"
+         echo "second hell!"
+       shell: bash
+
+     - name: The job has succeeded
+       if: ${{ sucess() }}
+       run: echo "Successfully completed"
+ 
