@@ -1,0 +1,5 @@
+## Best practices for code reviews
+- Pull requests 탭에 작성
+
+## Super-linter
+.github/workflows/HSJ-super-linter.yml 작성
